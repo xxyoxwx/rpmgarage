@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 72">
+  <defs>
+    <linearGradient id="lg" x1="26" y1="58" x2="54" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4b3fd4"></stop>
+      <stop offset="1" stop-color="#8b7cff"></stop>
+    </linearGradient>
+  </defs>
+  <text x="22" y="40" text-anchor="middle" font-family="'Chakra Petch','Segoe UI',system-ui,sans-serif" font-weight="700" font-size="38" fill="#ffffff">R</text>
+  <text x="42" y="58" text-anchor="middle" font-family="'Chakra Petch','Segoe UI',system-ui,sans-serif" font-weight="700" font-size="38" fill="url(#lg)">G</text>
+  <text x="72" y="46" font-family="'Chakra Petch','Segoe UI',system-ui,sans-serif" font-style="italic" font-weight="700" font-size="30" letter-spacing="1">
+    <tspan fill="#ffffff">RpM</tspan><tspan fill="#8b7cff">GARAGE</tspan>
+  </text>
+</svg>
